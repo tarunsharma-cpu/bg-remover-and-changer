@@ -109,5 +109,5 @@ else:
 
 print("---Removing Background...")
 # ------- Call The removeBg Function --------
-imgPath = "static/inputs/car.webp"  # Change this to your image path
+imgPath = "static/inputs/range.webp"  # Change this to your image path
 print(removeBg(imgPath))
